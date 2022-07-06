@@ -1,0 +1,21 @@
+{
+	"cookingTimeList": [{
+			"name": "apple",
+			"time": 5
+		}, {
+			"name": "banana",
+			"time": 2
+		}, {
+			"name": "orange",
+			"time": 3
+		},
+		{
+			"name": "chocolate",
+			"time": 4
+		},
+		{
+			"name": "curd",
+			"time": 5
+		}
+	]
+}
